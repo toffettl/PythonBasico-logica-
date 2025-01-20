@@ -1,0 +1,1 @@
+print(12, 34, sep="-", end="#") # sep é oq separa os argumentos e o end para o final
